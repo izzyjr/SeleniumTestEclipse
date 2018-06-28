@@ -9,7 +9,7 @@ public class SecondSeleniumTest {
 	
 	public static void main(String[] args) {
 		
-System.setProperty("webdriver.chrome.driver", "/Users/israelmesa/Desktop/ChromeDriver/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "/Users/israelmesa/Desktop/ChromeDriver/chromedriver");
 		
 		WebDriver driver = new ChromeDriver();
 		
